@@ -1,1 +1,1 @@
-0x00. MySQL advanced
+# MYSQL ADVANCED
